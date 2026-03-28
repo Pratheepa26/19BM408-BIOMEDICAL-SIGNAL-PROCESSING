@@ -60,6 +60,8 @@ title('Magnitude Spectrum of DFT');
 grid on;
 ```
 # OUTPUT GRAPH :
+<img width="698" height="589" alt="Screenshot 2026-03-28 140253" src="https://github.com/user-attachments/assets/1d7a4469-20a3-49c8-a37a-7abf92d1a4c1" />
+
 
 
 # Result :
